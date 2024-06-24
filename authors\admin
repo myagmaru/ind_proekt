@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Цоппа Ева Эдуардовна
+title: Myagmar Urjindorj
 
 # Full name (for SEO)
-first_name: Ева
-last_name: Цоппа
+first_name: Urjindorj
+last_name: Myagmar
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка ФФМиЕН РУДН
+role: Студент ФФМиЕН РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
